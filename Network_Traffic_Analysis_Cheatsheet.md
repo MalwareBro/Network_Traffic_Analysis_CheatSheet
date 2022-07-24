@@ -2,11 +2,6 @@
 
 Keep in mind, unless you are utilizing root, `sudo` privileges will be required to execute any applications that need to bind a network interface or set it into promiscuous mode. 
 
-## Nomachine Connection Information
-  * Target IP == 10.129.43.4
-  * Username ==  htb-student
-  * Password == HTB_@cademy_stdnt!
-
 
 ## Tcpdump
 | **Command**   | **Description**   |
